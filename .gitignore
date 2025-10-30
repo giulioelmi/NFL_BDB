@@ -1,3 +1,4 @@
 data/*
 !data/sample/
 !data/*/.gitkeep
+.DS_store
